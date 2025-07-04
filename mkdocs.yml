@@ -2,5 +2,7 @@ site_name: Тестовая документация Mkdocs
 site_description: Тeстовый сайт документации на Mkdocs
 theme: material
 nav:
-  - Home: index.md
+  - Home:
+      - Index: index.md
+      - Getting Started: get_start.md
   - About: about.md
