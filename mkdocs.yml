@@ -2,7 +2,11 @@ site_name: Тестовая документация Mkdocs
 site_description: Тeстовый сайт документации на Mkdocs
 theme: material
 nav:
-  - Home:
-      - Index: index.md
-      - Getting Started: get_start.md
-  - About: about.md
+  - Главная:
+      - Справочник API: index.md
+      - Основные положения: main_info.md
+      - Инструменты и сценарии: tools.md
+      - Начало работы: get_start.md
+      - Готовые решения: example.md
+  - Статьи: articles.md
+  - Новости: news.md
