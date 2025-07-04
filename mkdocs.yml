@@ -3,7 +3,7 @@ site_description: Тeстовый сайт документации на Mkdocs
 theme: material
 nav:
   - Главная:
-      - Справочник API: index.md
+      - Справочник API: dist/index.html
       - Основные положения: main_info.md
       - Инструменты и сценарии: tools.md
       - Начало работы: get_start.md
